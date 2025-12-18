@@ -1,5 +1,8 @@
 # reader-rollout-helpers
-## Initiale  Konfiguration:
+
+## ESP Wifi AP
+
+### Initiale  Konfiguration:
 
 SSID: MyAP
 <br>PW: 
@@ -8,13 +11,13 @@ SSID: MyAP
 
 ![initaial](./assets/ap-initial.png "initial config")
 
-## Konfiguration editieren
+### Konfiguration editieren
 
 
 ![edited](./assets/ap-edited.png "edited config")
 
 
-## Factory Reset
+### Factory Reset
 
-### PIN "G" (ground) mit PIN "D1" (gpio5) für ca 3 sek. verbinden.
+#### PIN "G" (ground) mit PIN "D1" (gpio5) für ca 3 sek. verbinden.
 ![reset](./assets/factory-reset.png "factory reset")
